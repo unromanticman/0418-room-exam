@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/um/Documents/work/pccu/A0321/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/um/Documents/work/pccu/A0321/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/um/Documents/work/pccu/A0321/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/um/Documents/work/pccu/A0321/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

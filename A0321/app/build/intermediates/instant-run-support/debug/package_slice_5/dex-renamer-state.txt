@@ -1,0 +1,4 @@
+#Tue Apr 17 21:12:09 CST 2018
+base.0=/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

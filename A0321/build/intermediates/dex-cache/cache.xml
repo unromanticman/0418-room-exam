@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/um/.android/build-cache/a30ba43e843ef270701788b18bdfecb1a4338cfd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5e998d025371fb31a1d25257ce827b8b2c6a971/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/.android/build-cache/ddbe784c44e8cd8c5ef79cd6319f37cd951f862a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/classes_6b10199f4d7dc24e04442a5917e59fe9d1514878.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/.android/build-cache/ddbe784c44e8cd8c5ef79cd6319f37cd951f862a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b10199f4d7dc24e04442a5917e59fe9d1514878/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/.android/build-cache/6fb61ff7b545a0804d859554d3b097be7d15d0b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5208cc1fafabea9c7db443e2c4e5fb0d8dce006/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/.android/build-cache/a30ba43e843ef270701788b18bdfecb1a4338cfd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/classes_d5e998d025371fb31a1d25257ce827b8b2c6a971.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/.android/build-cache/e12ad19c86ec8841561a0b93970c8317299e7558/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/classes_60eea1fd0c216777176d78e2092b933fe4e5f070.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/.android/build-cache/e12ad19c86ec8841561a0b93970c8317299e7558/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60eea1fd0c216777176d78e2092b933fe4e5f070/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/.android/build-cache/6fb61ff7b545a0804d859554d3b097be7d15d0b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/classes_a5208cc1fafabea9c7db443e2c4e5fb0d8dce006.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/.android/build-cache/34c3c89c77f2212f93d06e55c19abb2bd37919ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/classes_68f6bcb9d3c7db6f313f8ca367b07ada3d3885d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/.android/build-cache/34c3c89c77f2212f93d06e55c19abb2bd37919ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68f6bcb9d3c7db6f313f8ca367b07ada3d3885d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7b4e43bc1fe06d306a5acde39d3ac84c29f38660/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/.android/build-cache/8d67b0ca5838598169c1d95e9693c2544e698c42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_90461ba6277682afa34a2c30638b4af04cd4a59a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/.android/build-cache/950eab13e81f096c8b706a3252969d30016d69bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/classes_a849451161f52d56fa7434c78e24534272f220ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3df67924a1f54c0548e0e891aa4f23e1b631efcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/.android/build-cache/8d67b0ca5838598169c1d95e9693c2544e698c42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/classes_90461ba6277682afa34a2c30638b4af04cd4a59a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_3289c8600a3b6c1d764d2bcf2ce1169917adf540.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_3289c8600a3b6c1d764d2bcf2ce1169917adf540/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_7b4e43bc1fe06d306a5acde39d3ac84c29f38660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/.android/build-cache/f54812d94fb1d0efceac91096fd49eddc5dfb3d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/classes_52d6768a472c0ad61dd96f70e8f597a93b671c12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/.android/build-cache/950eab13e81f096c8b706a3252969d30016d69bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a849451161f52d56fa7434c78e24534272f220ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/.android/build-cache/f54812d94fb1d0efceac91096fd49eddc5dfb3d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52d6768a472c0ad61dd96f70e8f597a93b671c12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb6ba384e969925575c56454df462f70da3741c">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ead5ae599ad46986b4ea347cb499a200dd95c71b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/.android/build-cache/29e8cce91b7cb3b50b8cbc9305e312074efafde0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f1865fde4d1e971f1d65369a3bbae0057502e96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/um/.android/build-cache/b633d8d872298c4bbb66688a179e22c5fb8497be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fbca9854096201b8580c1e49359251b42c4655a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/.android/build-cache/29e8cce91b7cb3b50b8cbc9305e312074efafde0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/classes_8f1865fde4d1e971f1d65369a3bbae0057502e96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/um/.android/build-cache/b633d8d872298c4bbb66688a179e22c5fb8497be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/um/Documents/work/pccu/A0321/app/build/intermediates/pre-dexed/debug/classes_2fbca9854096201b8580c1e49359251b42c4655a.jar" />
+    </item>
+
+</items>

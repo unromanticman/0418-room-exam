@@ -1,0 +1,7 @@
+#Tue Apr 17 21:23:50 CST 2018
+base.0=/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ead5ae599ad46986b4ea347cb499a200dd95c71b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3df67924a1f54c0548e0e891aa4f23e1b631efcd/classes.dex
+base.1=/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3df67924a1f54c0548e0e891aa4f23e1b631efcd
+file.0=/Users/um/Documents/work/pccu/A0321/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ead5ae599ad46986b4ea347cb499a200dd95c71b/classes.dex
